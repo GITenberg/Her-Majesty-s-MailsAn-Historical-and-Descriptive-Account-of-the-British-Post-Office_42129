@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41539'
     url: http://www.gutenberg.org/2009/agents/41539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42129#Her-Majesty-s-MailsAn-Historical-and-Descriptive-Account-of-the-British-Post-Office
 gutenberg_issued: '2013-02-18'
 gutenberg_type: Text
 identifiers:
